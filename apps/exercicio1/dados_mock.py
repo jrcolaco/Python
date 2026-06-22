@@ -1,0 +1,11 @@
+previsao = {
+    "cidade": "Lisboa",
+    "pais": "Portugal",
+    "dias": [
+        {"data": "2026-06-23", "temp_max": 28.4, "temp_min": 18.2, "precipitacao": 0, "vento": 10},
+        {"data": "2026-06-24", "temp_max": 30.1, "temp_min": 19.0, "precipitacao": 2, "vento": 12},
+        {"data": "2026-06-25", "temp_max": 27.8, "temp_min": 17.5, "precipitacao": 5, "vento": 8}, 
+        {"data": "2026-06-26", "temp_max": 26.3, "temp_min": 16.9, "precipitacao": 0, "vento": 6}, 
+        {"data": "2026-06-27", "temp_max": 29.7, "temp_min": 18.8, "precipitacao": 1, "vento": 11} 
+    ]
+}
